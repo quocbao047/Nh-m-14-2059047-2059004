@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<students>
+	<student id ="1">
+		<name>Nguyen Van Phong</name>
+		<address>Dist. 5 - HN</address>
+	</student>
+	<student id="2">
+		<name>Le Thi Ngoc Diep</name>
+		<address>Dist. 7 - HCMC</address>
+	</student>
+	<student id="3">
+		<name>Tran Van Ba</name>
+		<address>Dist. BinhThanh - HCMC</address>
+	</student>
+</students>
