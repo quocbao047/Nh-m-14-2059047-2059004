@@ -14,5 +14,6 @@ usc Clock để tính thời gian,
 Test.cs trong đăng nhập là dùng để kiểm tra họ tên,
 Random để tráo ngẫu nhiên câu hỏi,
 File data.txt để chứ nội dung thông tin học sinh, sinh viên,
-XMLFile1 để tạo câu hỏi và câu trả lời
+XMLFile1 để tạo câu hỏi và câu trả lời, Begin.cs để bắt đầu nhập họ tên, End.cs để đóng khi kết thúc
+
 
