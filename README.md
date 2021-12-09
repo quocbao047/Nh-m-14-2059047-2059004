@@ -6,7 +6,7 @@ Finalproject - 20bit1 - AOOP - 2021
 + 2059004 - Lê Quốc Bảo
 + 2059047 - Hồ Minh Trung
 
-2. Github Inf0rmation
+2. Github Information
 -URL: https://github.com/quocbao047/Nh-m-14-2059047-2059004
 
 3.Function of Project:
